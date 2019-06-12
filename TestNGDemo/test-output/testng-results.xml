@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="NewTours" duration-ms="28082" started-at="2019-06-07T02:31:27Z" finished-at="2019-06-07T02:31:55Z">
+    <groups>
+    </groups>
+    <test name="Login" duration-ms="28082" started-at="2019-06-07T02:31:27Z" finished-at="2019-06-07T02:31:55Z">
+      <class name="testpack.WebDriverTestNG">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:testpack.WebDriverTestNG@75412c2f]" name="beforeMethod" is-config="true" duration-ms="9206" started-at="2019-06-07T02:31:27Z" finished-at="2019-06-07T02:31:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="f(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:testpack.WebDriverTestNG@75412c2f]" name="f" duration-ms="9574" started-at="2019-06-07T02:31:36Z" data-provider="dp" finished-at="2019-06-07T02:31:46Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[mercury]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[mercury]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Welcome: Mercury Tours]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[London]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:testpack.WebDriverTestNG@75412c2f]" name="afterMethod" is-config="true" duration-ms="81" started-at="2019-06-07T02:31:46Z" finished-at="2019-06-07T02:31:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:testpack.WebDriverTestNG@75412c2f]" name="beforeMethod" is-config="true" duration-ms="6875" started-at="2019-06-07T02:31:46Z" finished-at="2019-06-07T02:31:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="f(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:testpack.WebDriverTestNG@75412c2f]" name="f" duration-ms="2152" started-at="2019-06-07T02:31:53Z" data-provider="dp" finished-at="2019-06-07T02:31:55Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[test]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[testone]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Welcome: Mercury Tours]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Paris]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:testpack.WebDriverTestNG@75412c2f]" name="afterMethod" is-config="true" duration-ms="161" started-at="2019-06-07T02:31:55Z" finished-at="2019-06-07T02:31:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- testpack.WebDriverTestNG -->
+    </test> <!-- Login -->
+  </suite> <!-- NewTours -->
+</testng-results>
